@@ -1,0 +1,48 @@
+https://v.qq.com/x/cover/mzc00200gag6dkh/g4102f0fkum.html
+
+https://jiexi.site/?url=https://www.iqiyi.com/v_19rrjq73t0.html?lt=2
+https://jx.2s0.cn/player/?url=
+
+https://jx.m3u8.tv/jiexi/?url=
+只解析单独播放流
+https://json.fongmi.cc/web?url=
+
+
+
+获取视频详情
+出播放地址
+https://dmku.hls.one/?ac=list&url=https://www.iqiyi.com/v_19rrjr4p1g.html?vfrm=pcw_category_lib_2&vfrmblk=E&vfrmrst=1_2   视频地址
+https://dmku.hls.one/?ac=list&url=https://www.iqiyi.com/v_2c3zr1t103w.html
+出视频地址
+https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=f132c044a68b5a642e89f9157518addb&jx=决杀&s1ig=11398&g=hd.ijyc,play.hh
+https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=f132c044a68b5a642e89f9157518addb&jx=%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85&s1ig=11398&g=hd.ijyc,play.hh,svip.xg  视频名称
+https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=f132c044a68b5a642e89f9157518addb&jx=九%20个%20弹%20孔&s1ig=11398&g=play.xl  视频名称
+
+
+https://z1.m1907.top/?jx=%E6%88%98%E7%8B%BC
+https://m1-z2.cloud.nnpp.vip:2223/?r=http://b.gouvip.top/&jx=%E6%88%98%E7%8B%BC
+https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=f132c044a68b5a642e89f9157518addb&jx=%E6%88%98%E7%8B%BC&s1ig=11398&g=hd.ijyc,play.hh
+https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=f132c044a68b5a642e89f9157518addb&jx=%E6%88%98%E7%8B%BC&s1ig=11398&g=hd.ijyc,play.hh,svip.xg
+
+
+{"name": "茶王解析","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+
+{"name": "盖碗解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=","ext": {"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name":"白茶嗅探","url":"https://jx.bozrc.com:4433/player/?url=","showType":1},
+
+{"name":"滇红嗅探","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"毛尖嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"青柑嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+
+{"name":"岩茶嗅探","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"小种嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+
+{"name":"普洱嗅探","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"红茶嗅探","type":0,"url":"https://jx.4kdv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}],
+
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
