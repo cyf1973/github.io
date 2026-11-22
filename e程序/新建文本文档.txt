@@ -1,0 +1,26 @@
+http://23.225.100.250/lz/lz.html?key=%E7%BA%A2%E6%A5%BC%E6%A2%A6   量子搜索
+https://lzizy.com/api.php/provide/vod  量子采集
+
+二、接口 URL 参数（GET 直接拼接）
+| ac | 动作：list = 列表，detail = 详情，search = 搜索 | `?ac=list` |
+| pg | 页码 | `&pg=2` |
+| t | 分类 ID | `&t=1`（1 一般是电影，ID 会变动） |
+| wd | 搜索关键词（中文需要 URL 编码） | `&wd=狂飙` |
+| ids | 影片 ID，查看单条详情 | `&ac=detail&ids=12345` |
+搜索：http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=search&wd=狂飙
+分页列表：主链接api.php/provide/vod/from/lzm3u8/?ac=list&t=类型id&pg=页数
+
+
+三、返回 JSON 字段说明（E4A 解析重点）
+
+返回核心节点：`list[]` 数组，单条影片对象
+
+- `vod_id`：影片 ID（详情用）
+- `vod_name`：片名
+- `vod_pic`：封面图
+- `vod_remarks`：备注 / 更新状态
+- `vod_year`：年份
+- `vod_area`：地区
+- `vod_actor`：演员
+- `vod_content`：简介
+- `vod_play_url`：**播放线路地址（最关键）**
