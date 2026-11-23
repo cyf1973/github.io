@@ -1,7 +1,12 @@
 {
     "sites": [
+        {"key":"fqzy","name":"番茄资源","type":1,"api":"https://fqzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"ddapi","name":"滴滴资源站","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"xingba222","name":"杏系资源","type":1,"api":"https://json.xingba222.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"souavzyw","name":"搜A-V资源站","type":1,"api":"https://api.souavzyw.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"jipin","name":"新极品资源","type":1,"api":"https://jipinvip1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"naixxzy","name":"奶香香资源","type":1,"api":"https://naixxzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"douapi","name":"豆豆资源站","type":1,"api":"https://api.douapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"lajiaozy","name":"辣椒资源","type":1,"api":"https://lajiaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"jkunzy","name":"JKUN资源","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"danaizizy","name":"大奶子资源站","type":1,"api":"https://apidanaizi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -13,16 +18,18 @@
         {"key":"aosikazy","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"thzy","name":"桃花资源","type":1,"api":"https://thzy1.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"yutu","name":"玉兔资源站","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-        {"key":"semaozy","name":"彩猫资源","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"91md","name":"麻豆视频","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
         {"key":"hsckzy","name":"黄色仓库 ","type":1,"api":"https://hsckzy888.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-
-
-
-        {"key":"lbapi9","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-        {"key":"aosikazy","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-        {"key":"thzy","name":"桃花资源","type":1,"api":"https://thzy1.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-        {"key":"yutu","name":"玉兔资源站","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"dadi","name":"大地资源站","type":1,"api":"https://dadiapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"xiaojizy","name":"小鸡资源","type":1,"api":"https://api.xiaojizy.live/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"fhapi9","name":"番号资源站","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"vnzyz","name":"越南资源","type":1,"api":"https://api.vnzyz.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"kxgav","name":"免费资源站","type":1,"api":"https://www.kxgav.com/api/json.php","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"semaozy","name":"彩猫资源","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php/","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"msnii","name":"美少女资源","type":1,"api":"https://www.msnii.com/api/json.php","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"pgxdy","name":"黄av资源","type":1,"api":"https://www.pgxdy.com/api/json.php","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"xrbsp","name":"清水源资源","type":1,"api":"https://www.xrbsp.com/api/json.php","searchable":1,"quickSearch":1,"filterable":1}
+        {"key":"gdlsp","name":"香系资源","type":1,"api":"https://www.gdlsp.com/api/json.php","searchable":1,"quickSearch":1,"filterable":1}     
     ],
     "parses": [],
     "lives": []
