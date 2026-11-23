@@ -5,8 +5,6 @@ http://xhztv.top/xhz/live.txt
 
 https://txyun.vod.pptv.com/4c5ae0a387565f37e2914111a14ebc2f.m3u8?type=mhpptv&k=5115a6137aeab55b5b0e0909efd23824-b8e3-1784036103%26bppcataid%3D9
 https://txyun.vod.pptv.com/432143f95b07de0c4448342888e90b8b.m3u8?type=mhpptv&k=56ad3a58cddf323b7f37315c2b0c9744-2977-1784036443%26bppcataid%3D9
-
-
 央视频道,#genre#
 CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://112.46.85.60:8009/hls/501/index.m3u8
